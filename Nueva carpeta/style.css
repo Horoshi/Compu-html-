@@ -1,0 +1,30 @@
+body{
+	background-image: url(1.jpg);
+	background-size: cover;
+
+}
+
+h1{
+	font:normal 2.4em forte;
+	background: -webkit-linear-gradient (top, );
+	width: 40%;
+	border-radius: 20px;
+	margin: 15px auto;
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	box-shadow: #60c 10px 10px 10px;
+	text-shadow: #ff0 5px 5px 5px;
+}
+
+h2{
+	font: bold 1.7em forte;
+	margin: 0px;
+	padding: 5px 0 5px 0px;
+	color: #fff;
+}
+
+
+img:hover {
+	trantition:;
+}
